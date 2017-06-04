@@ -7,7 +7,7 @@ Steps to setup:
 3. GET access key and secret key.
 4. configure aws default profile
    command: >aws configure
-external jars:
+5. external jars:
 -common-logging
 -httpclient
 -httpcore
